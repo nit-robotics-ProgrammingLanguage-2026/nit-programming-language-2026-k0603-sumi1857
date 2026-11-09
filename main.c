@@ -3,8 +3,6 @@
 int main(void)
 {
     int n;
-    int i;
-    int sum = 0;
     scanf("%d", &n);
     if (n < 0)
     {
